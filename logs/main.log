@@ -1,0 +1,178 @@
+[2026-04-14T00:18:17-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1592677 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:18:17-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:18:17-04:00] INFO  inbox loop started
+[2026-04-14T00:18:17-04:00] INFO  heartbeat loop started
+[2026-04-14T00:18:17-04:00] INFO  command loop started
+[2026-04-14T00:18:17-04:00] INFO  rollup loop started
+[2026-04-14T00:19:05-04:00] INFO  reply sent (846 bytes)
+[2026-04-14T00:19:59-04:00] INFO  reply sent (113 bytes)
+[2026-04-14T00:19:59-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:19:59-04:00] INFO  reply sent (2094 bytes)
+[2026-04-14T00:20:11-04:00] INFO  reply sent (158 bytes)
+[2026-04-14T00:20:47-04:00] INFO  reply sent (920 bytes)
+[2026-04-14T00:20:49-04:00] INFO  reply sent (113 bytes)
+[2026-04-14T00:20:51-04:00] INFO  reply sent (277 bytes)
+[2026-04-14T00:23:57-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:23:59-04:00] INFO  reply sent (113 bytes)
+[2026-04-14T00:24:01-04:00] INFO  reply sent (277 bytes)
+[2026-04-14T00:25:40-04:00] INFO  signal received: 15
+[2026-04-14T00:25:40-04:00] INFO  rollup loop stopped
+[2026-04-14T00:25:40-04:00] INFO  heartbeat loop stopped
+[2026-04-14T00:25:40-04:00] INFO  command loop stopped
+[2026-04-14T00:25:40-04:00] INFO  shutdown sequence starting
+[2026-04-14T00:25:41-04:00] INFO  inbox loop stopped
+[2026-04-14T00:25:41-04:00] INFO  shutdown complete
+[2026-04-14T00:26:28-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1668503 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:26:28-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:26:28-04:00] INFO  inbox loop started
+[2026-04-14T00:26:28-04:00] INFO  command loop started
+[2026-04-14T00:26:28-04:00] INFO  heartbeat loop started
+[2026-04-14T00:26:28-04:00] INFO  rollup loop started
+[2026-04-14T00:26:28-04:00] INFO  reply sent (955 bytes)
+[2026-04-14T00:26:28-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+[2026-04-14T00:26:28-04:00] INFO  reply sent (113 bytes)
+[2026-04-14T00:26:28-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:26:28-04:00] INFO  reply sent (3052 bytes)
+[2026-04-14T00:26:28-04:00] INFO  reply sent (158 bytes)
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: status
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: help
+[2026-04-14T00:26:28-04:00] INFO  reply sent (277 bytes)
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: help
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: run id
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:26:28-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:27:58-04:00] INFO  signal received: 2
+[2026-04-14T00:27:58-04:00] INFO  heartbeat loop stopped
+[2026-04-14T00:27:58-04:00] INFO  rollup loop stopped
+[2026-04-14T00:27:58-04:00] INFO  shutdown sequence starting
+[2026-04-14T00:27:58-04:00] INFO  command loop stopped
+[2026-04-14T00:28:00-04:00] INFO  inbox loop stopped
+[2026-04-14T00:28:00-04:00] INFO  shutdown complete
+[2026-04-14T00:29:48-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1698670 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:29:48-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:29:48-04:00] INFO  inbox loop started
+[2026-04-14T00:29:48-04:00] INFO  command loop started
+[2026-04-14T00:29:48-04:00] INFO  rollup loop started
+[2026-04-14T00:29:48-04:00] INFO  heartbeat loop started
+[2026-04-14T00:29:48-04:00] INFO  reply sent (955 bytes)
+[2026-04-14T00:29:48-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+[2026-04-14T00:29:48-04:00] INFO  reply sent (113 bytes)
+[2026-04-14T00:29:48-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:29:48-04:00] INFO  reply sent (3275 bytes)
+[2026-04-14T00:29:48-04:00] INFO  reply sent (158 bytes)
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: status
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: help
+[2026-04-14T00:29:48-04:00] INFO  reply sent (277 bytes)
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: help
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: run id
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:29:48-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:30:04-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:30:06-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:30:54-04:00] INFO  signal received: 15
+[2026-04-14T00:30:54-04:00] INFO  rollup loop stopped
+[2026-04-14T00:30:54-04:00] INFO  heartbeat loop stopped
+[2026-04-14T00:30:55-04:00] INFO  shutdown sequence starting
+[2026-04-14T00:30:55-04:00] INFO  command loop stopped
+[2026-04-14T00:30:56-04:00] INFO  inbox loop stopped
+[2026-04-14T00:30:56-04:00] INFO  shutdown complete
+[2026-04-14T00:32:33-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1723345 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:32:33-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:32:33-04:00] INFO  inbox loop started
+[2026-04-14T00:32:33-04:00] INFO  rollup loop started
+[2026-04-14T00:32:33-04:00] INFO  heartbeat loop started
+[2026-04-14T00:32:33-04:00] INFO  command loop started
+[2026-04-14T00:33:03-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:33:05-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:33:11-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:33:55-04:00] INFO  signal received: 15
+[2026-04-14T00:33:55-04:00] INFO  rollup loop stopped
+[2026-04-14T00:33:55-04:00] INFO  heartbeat loop stopped
+[2026-04-14T00:33:55-04:00] INFO  inbox loop stopped
+[2026-04-14T00:33:55-04:00] INFO  shutdown sequence starting
+[2026-04-14T00:33:55-04:00] INFO  command loop stopped
+[2026-04-14T00:33:55-04:00] INFO  shutdown complete
+[2026-04-14T00:37:40-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1723737 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:37:40-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:37:40-04:00] INFO  inbox loop started
+[2026-04-14T00:37:40-04:00] INFO  command loop started
+[2026-04-14T00:37:40-04:00] INFO  heartbeat loop started
+[2026-04-14T00:37:40-04:00] INFO  rollup loop started
+[2026-04-14T00:37:40-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:37:40-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:37:40-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:37:40-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:37:40-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:38:32-04:00] INFO  reply sent (954 bytes)
+[2026-04-14T00:40:08-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:40:10-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:40:16-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:41:04-04:00] INFO  reply sent (968 bytes)
+[2026-04-14T00:41:17-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1723997 root=/home/parrot/hexwatch_v6
+[2026-04-14T00:41:17-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T00:41:17-04:00] INFO  inbox loop started
+[2026-04-14T00:41:17-04:00] INFO  command loop started
+[2026-04-14T00:41:17-04:00] INFO  heartbeat loop started
+[2026-04-14T00:41:17-04:00] INFO  rollup loop started
+[2026-04-14T00:41:17-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T00:41:17-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:41:17-04:00] INFO  duplicate command skipped: ping
+[2026-04-14T00:41:17-04:00] INFO  reply sent (930 bytes)
+[2026-04-14T00:41:35-04:00] INFO  reply sent (932 bytes)
+[2026-04-14T01:08:47-04:00] INFO  hexwatch_v6 6.0.0 starting pid=1725729 root=/home/parrot/hexwatch_v6
+[2026-04-14T01:08:47-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T01:08:47-04:00] INFO  inbox loop started
+[2026-04-14T01:08:47-04:00] INFO  command loop started
+[2026-04-14T01:08:47-04:00] INFO  heartbeat loop started
+[2026-04-14T01:08:47-04:00] INFO  rollup loop started
+[2026-04-14T01:08:49-04:00] INFO  reply sent (959 bytes)
+[2026-04-14T01:28:38-04:00] INFO  reply sent (31 bytes)
+[2026-04-14T01:28:40-04:00] INFO  reply sent (961 bytes)
+[2026-04-14T01:48:06-04:00] INFO  reply sent (915 bytes)
+[2026-04-14T02:24:16-04:00] INFO  reply sent (30 bytes)
+[2026-04-14T02:24:18-04:00] INFO  reply sent (28 bytes)
+[2026-04-14T02:24:20-04:00] INFO  reply sent (29 bytes)
+[2026-04-14T02:24:22-04:00] INFO  reply sent (33 bytes)
+[2026-04-14T02:28:10-04:00] INFO  reply sent (30 bytes)
+[2026-04-14T02:28:12-04:00] INFO  reply sent (28 bytes)
+[2026-04-14T02:28:14-04:00] INFO  reply sent (29 bytes)
+[2026-04-14T02:28:16-04:00] INFO  reply sent (33 bytes)
+[2026-04-14T02:40:48-04:00] INFO  signal received: 15
+[2026-04-14T02:40:48-04:00] INFO  rollup loop stopped
+[2026-04-14T02:40:48-04:00] INFO  heartbeat loop stopped
+[2026-04-14T02:40:48-04:00] INFO  command loop stopped
+[2026-04-14T02:40:48-04:00] INFO  shutdown sequence starting
+[2026-04-14T02:40:48-04:00] INFO  inbox loop stopped
+[2026-04-14T02:40:48-04:00] INFO  shutdown complete
+[2026-04-14T03:01:15-04:00] INFO  hexwatch_v6 6.2.0 starting pid=4262 root=/home/parrot/hexwatch_v6
+[2026-04-14T03:01:15-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T03:01:15-04:00] INFO  inbox loop started
+[2026-04-14T03:01:15-04:00] INFO  command loop started
+[2026-04-14T03:01:15-04:00] INFO  heartbeat loop started
+[2026-04-14T03:01:15-04:00] INFO  rollup loop started
+[2026-04-14T03:01:15-04:00] INFO  autonomy loop started
+[2026-04-14T03:01:51-04:00] INFO  reply sent (6 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (584 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (32 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (17 bytes)
+[2026-04-14T03:04:50-04:00] INFO  reply sent (1018 bytes)
+[2026-04-14T03:06:28-04:00] INFO  reply sent (1021 bytes)
+[2026-04-14T03:08:10-04:00] INFO  reply sent (1022 bytes)
+[2026-04-14T03:55:00-04:00] INFO  hexwatch_v6 6.2.1 starting pid=372316 root=/home/parrot/hexwatch_v6
+[2026-04-14T03:55:00-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T03:55:00-04:00] INFO  inbox loop started
+[2026-04-14T03:55:00-04:00] INFO  command loop started
+[2026-04-14T03:55:00-04:00] INFO  heartbeat loop started
+[2026-04-14T03:55:00-04:00] INFO  rollup loop started
+[2026-04-14T03:55:00-04:00] INFO  autonomy loop started
+[2026-04-14T03:56:23-04:00] INFO  reply sent (1043 bytes)
+[2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:07:22-04:00] INFO  reply sent (1015 bytes)
+[2026-04-14T04:09:05-04:00] INFO  reply sent (19 bytes)

@@ -1,0 +1,2 @@
+[2026-04-14T00:26:28-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+[2026-04-14T00:29:48-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'

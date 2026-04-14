@@ -1,0 +1,12 @@
+{
+  "ai_available": true,
+  "app": "hexwatch_v6",
+  "command_count": 0,
+  "last_command_at": null,
+  "last_rollup_at": "2026-04-14T04:10:02-04:00",
+  "pid": 372316,
+  "root": "/home/parrot/hexwatch_v6",
+  "started_at": "2026-04-14T03:55:00-04:00",
+  "uptime_seconds": 912,
+  "version": "6.2.1"
+}

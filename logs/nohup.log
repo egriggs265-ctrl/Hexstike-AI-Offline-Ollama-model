@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/home/parrot/hexwatch_v6/hexwatch_v6_monolith.py", line 771
+    																																																			┌─[parrot@parrot]─[~/hexwatch_v6]
+    																																																			^
+SyntaxError: invalid character '┌' (U+250C)

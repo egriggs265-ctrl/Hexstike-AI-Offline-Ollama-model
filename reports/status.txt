@@ -1,0 +1,23 @@
+[hexwatch_v6 6.2.1]
+            ts: 2026-04-14T04:10:12-04:00
+            pid: 372316
+            root: /home/parrot/hexwatch_v6
+            uptime_seconds: 912
+            last_command_at: none
+            last_rollup_at: 2026-04-14T04:10:02-04:00
+            command_count: 0
+            ai_available: True
+            autonomy_enabled: True
+            goal: monitor system health
+            inbox: /home/parrot/hexwatch_v6/run/chat.inbox
+            outbox: /home/parrot/hexwatch_v6/run/chat.outbox
+
+            ---- main log tail ----
+            [2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:07:22-04:00] INFO  reply sent (1015 bytes)
+[2026-04-14T04:09:05-04:00] INFO  reply sent (19 bytes)
