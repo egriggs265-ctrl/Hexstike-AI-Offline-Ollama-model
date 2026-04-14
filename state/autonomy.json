@@ -1,4 +1,16 @@
 {
-  "enabled": true,
-  "last_tick": "2026-04-14T04:09:05-04:00"
+  "enabled": false,
+  "interval_seconds": 90,
+  "cooldown_seconds": 60,
+  "max_reply_chars": 900,
+  "allowed_actions": ["reply", "status", "rollup", "note", "tail"],
+  "operator_only_shell": true,
+  "tail_allowlist": [
+    "logs/main.log",
+    "logs/error.log",
+    "logs/chat_history.log",
+    "reports/status.txt",
+    "reports/rollup.txt",
+    "reports/last_reply.txt"
+  ]
 }

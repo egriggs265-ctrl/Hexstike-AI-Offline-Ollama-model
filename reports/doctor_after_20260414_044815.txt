@@ -1,0 +1,147 @@
+[hexwatch_v6 health]
+ts: 2026-04-14T04:48:19-04:00
+root: /home/parrot/hexwatch_v6
+
+-- process --
+6285 python3 /home/parrot/hexwatch_v6/hexwatch_v6_monolith.py
+
+-- compile --
+compile_ok
+
+-- main log tail --
+[2026-04-14T03:01:15-04:00] INFO  hexwatch_v6 6.2.0 starting pid=4262 root=/home/parrot/hexwatch_v6
+[2026-04-14T03:01:15-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T03:01:15-04:00] INFO  inbox loop started
+[2026-04-14T03:01:15-04:00] INFO  command loop started
+[2026-04-14T03:01:15-04:00] INFO  heartbeat loop started
+[2026-04-14T03:01:15-04:00] INFO  rollup loop started
+[2026-04-14T03:01:15-04:00] INFO  autonomy loop started
+[2026-04-14T03:01:51-04:00] INFO  reply sent (6 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (584 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (32 bytes)
+[2026-04-14T03:03:18-04:00] INFO  reply sent (17 bytes)
+[2026-04-14T03:04:50-04:00] INFO  reply sent (1018 bytes)
+[2026-04-14T03:06:28-04:00] INFO  reply sent (1021 bytes)
+[2026-04-14T03:08:10-04:00] INFO  reply sent (1022 bytes)
+[2026-04-14T03:55:00-04:00] INFO  hexwatch_v6 6.2.1 starting pid=372316 root=/home/parrot/hexwatch_v6
+[2026-04-14T03:55:00-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T03:55:00-04:00] INFO  inbox loop started
+[2026-04-14T03:55:00-04:00] INFO  command loop started
+[2026-04-14T03:55:00-04:00] INFO  heartbeat loop started
+[2026-04-14T03:55:00-04:00] INFO  rollup loop started
+[2026-04-14T03:55:00-04:00] INFO  autonomy loop started
+[2026-04-14T03:56:23-04:00] INFO  reply sent (1043 bytes)
+[2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:07:22-04:00] INFO  reply sent (1015 bytes)
+[2026-04-14T04:09:05-04:00] INFO  reply sent (19 bytes)
+started
+IN: ping | OUT: pong 1776154777.0543938
+IN: ask say hello like a system assistant | OUT: Assistant: Greetings, user! I am here to assist you with your queries and t[1D[K
+tasks. How can I help today? If there's anything specific you need assistan[8D[K
+assistance with or information on, please let me know how best I may suppor[6D[K
+support you in this moment. Remember that together we strive towards progre[6D[K
+progress and solutions for every challenge encountered.
+IN: ask say hello like a system assistant | OUT: "Hello! I'm Phi, your AI Assistant. How can I help you today?"
+started
+IN: ping | OUT: pong 1776156496.918781
+
+-- error log tail --
+[2026-04-14T00:26:28-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+[2026-04-14T00:29:48-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+
+-- status report --
+[hexwatch_v6 6.2.1]
+            ts: 2026-04-14T04:10:12-04:00
+            pid: 372316
+            root: /home/parrot/hexwatch_v6
+            uptime_seconds: 912
+            last_command_at: none
+            last_rollup_at: 2026-04-14T04:10:02-04:00
+            command_count: 0
+            ai_available: True
+            autonomy_enabled: True
+            goal: monitor system health
+            inbox: /home/parrot/hexwatch_v6/run/chat.inbox
+            outbox: /home/parrot/hexwatch_v6/run/chat.outbox
+
+            ---- main log tail ----
+            [2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:07:22-04:00] INFO  reply sent (1015 bytes)
+[2026-04-14T04:09:05-04:00] INFO  reply sent (19 bytes)
+
+-- rollup report --
+HEXWATCH V6 ROLLUP
+            generated: 2026-04-14T04:10:02-04:00
+            pid: 372316
+            uptime_seconds: 901
+            commands_processed: 0
+            last_command_at: none
+            last_rollup_at: 2026-04-14T04:09:42-04:00
+            ai_available: True
+            autonomy_enabled: True
+            goal: monitor system health
+
+            == MAIN LOG TAIL ==
+            [2026-04-14T03:03:18-04:00] INFO  reply sent (17 bytes)
+[2026-04-14T03:04:50-04:00] INFO  reply sent (1018 bytes)
+[2026-04-14T03:06:28-04:00] INFO  reply sent (1021 bytes)
+[2026-04-14T03:08:10-04:00] INFO  reply sent (1022 bytes)
+[2026-04-14T03:55:00-04:00] INFO  hexwatch_v6 6.2.1 starting pid=372316 root=/home/parrot/hexwatch_v6
+[2026-04-14T03:55:00-04:00] INFO  reply sent (54 bytes)
+[2026-04-14T03:55:00-04:00] INFO  inbox loop started
+[2026-04-14T03:55:00-04:00] INFO  command loop started
+[2026-04-14T03:55:00-04:00] INFO  heartbeat loop started
+[2026-04-14T03:55:00-04:00] INFO  rollup loop started
+[2026-04-14T03:55:00-04:00] INFO  autonomy loop started
+[2026-04-14T03:56:23-04:00] INFO  reply sent (1043 bytes)
+[2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:07:22-04:00] INFO  reply sent (1015 bytes)
+[2026-04-14T04:09:05-04:00] INFO  reply sent (19 bytes)
+
+            == ERROR LOG TAIL ==
+            [2026-04-14T00:26:28-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+[2026-04-14T00:29:48-04:00] ERROR heartbeat loop failure: [Errno 2] No such file or directory: '/home/parrot/hexwatch_v6/reports/status.txt.tmp' -> '/home/parrot/hexwatch_v6/reports/status.txt'
+
+            == CHAT HISTORY TAIL ==
+                        uptime_seconds: 741
+            last_command_at: none
+            last_rollup_at: 2026-04-14T04:07:22-04:00
+            command_count: 0
+            ai_available: True
+            autonomy_enabled: True
+            goal: monitor system health
+            inbox: /home/parrot/hexwatch_v6/run/chat.inbox
+            outbox: /home/parrot/hexwatch_v6/run/chat.outbox
+
+            ---- main log tail ----
+            [2026-04-14T03:55:00-04:00] INFO  autonomy loop started
+[2026-04-14T03:56:23-04:00] INFO  reply sent (1043 bytes)
+[2026-04-14T03:57:53-04:00] INFO  reply sent (1044 bytes)
+[2026-04-14T03:59:25-04:00] INFO  reply sent (1000 bytes)
+[2026-04-14T04:00:53-04:00] INFO  reply sent (1002 bytes)
+[2026-04-14T04:02:28-04:00] INFO  reply sent (1007 bytes)
+[2026-04-14T04:04:00-04:00] INFO  reply sent (1010 bytes)
+[2026-04-14T04:05:48-04:00] INFO  reply sent (1011 bytes)
+[2026-04-14T04:09:05-04:00]    OUT AI decision failed
+
+-- run dir --
+total 8.0K
+drwxrwxr-x 1 parrot parrot  42 Apr 14 04:10 .
+drwxrwxr-x 1 parrot parrot 610 Apr 14 04:48 ..
+-rw-rw-r-- 1 parrot parrot 124 Apr 14 04:42 chat.inbox
+-rw-rw-r-- 1 parrot parrot 498 Apr 14 04:48 chat.outbox
