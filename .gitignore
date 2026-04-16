@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime / generated
+logs/
+run/
+tmp/
+*.log
+nohup.out
+*.lock
+*.tmp
+
+# Backups / archives
+archive/
+*.bak
+*.dead
+*.corrupt_backup_*
+
+# State and machine-local data
+state/
+reports/
+
+# Environment / secrets
+.env
+.env.*
+.venv/
+venv/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*~
